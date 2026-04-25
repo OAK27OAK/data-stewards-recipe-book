@@ -1,5 +1,5 @@
 # Groundnut soup from Ghana
-You need to get these ingridents for your soup
+You need to get these ingredients for your soup
 - Tomatoes
 - Pepper
 - Goundnuts
